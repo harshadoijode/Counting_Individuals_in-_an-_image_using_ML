@@ -1,0 +1,5 @@
+train: D:\FinalYearProject\PeopleCount\dataset\train
+val: D:\FinalYearProject\PeopleCount\dataset\val
+
+nc: 1
+names: ["Person"]
